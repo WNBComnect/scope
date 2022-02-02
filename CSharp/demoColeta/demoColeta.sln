@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demoColeta", "demoColeta.csproj", "{76FFAB92-2F72-4A01-AF7B-768A0465ACE3}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{76FFAB92-2F72-4A01-AF7B-768A0465ACE3}.Debug.ActiveCfg = Debug|.NET
+		{76FFAB92-2F72-4A01-AF7B-768A0465ACE3}.Debug.Build.0 = Debug|.NET
+		{76FFAB92-2F72-4A01-AF7B-768A0465ACE3}.Release.ActiveCfg = Release|.NET
+		{76FFAB92-2F72-4A01-AF7B-768A0465ACE3}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
